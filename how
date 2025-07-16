@@ -1,0 +1,27 @@
+[33mcommit 770728491ffea5c073e9bdec38389183c4ebf320[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: E <de1@its.jnj.com>
+Date:   Wed Jul 16 17:49:36 2025 +0530
+
+    Master branch commit
+
+[1mdiff --git a/newFileMaster.txt b/newFileMaster.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3b3ed16[m
+[1m--- /dev/null[m
+[1m+++ b/newFileMaster.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mmaster branch[m[41m [m
+[1mdiff --git a/stagefile.txt b/stagefile.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7553b0d[m
+[1m--- /dev/null[m
+[1m+++ b/stagefile.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mstaged[m[41m [m
+[1mdiff --git a/unstagedfile.txt b/unstagedfile.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..961828c[m
+[1m--- /dev/null[m
+[1m+++ b/unstagedfile.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32munstaged[m[41m [m
